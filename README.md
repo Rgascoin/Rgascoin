@@ -5,12 +5,12 @@
 ![image info](./header.png)
 
 
-# My Skills 😊
+# My Skills 🌟
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,nextjs,tailwind,react,nodejs,ts,docker,jest,py,postgres,git,bash,cpp)](https://skillicons.dev)
 
 
-# My current work 😊
+# My current activity 😊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#329](https://github.com/anmol098/waka-readme-stats/issues/329) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)

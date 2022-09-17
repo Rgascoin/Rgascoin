@@ -1,7 +1,5 @@
-<h1 align='center'>
-  Hello there, I am Rgascoin !
-</h1>
-
+![image info](./header.png)
+-
 <!--
 **Rgascoin/Rgascoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

@@ -21,5 +21,16 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 March 2021 - To: 16 September 2022
+
+Total Time: 151 hrs 13 mins
+
+C++           140 hrs 33 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.94 %
+CMake         5 hrs 11 mins   >------------------------   03.43 %
+Other         1 hr 48 mins    -------------------------   01.20 %
+```
+
 <!--END_SECTION:waka-->
 

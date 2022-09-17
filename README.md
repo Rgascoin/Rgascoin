@@ -21,10 +21,39 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 393 Contributions in the Year 2022
+ > 
+> 📦 598.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
 
 ```text
-No activity tracked
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59% 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59% 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Rgascoin/Rgascoin/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/09/2022 20:07:57 UTC
 <!--END_SECTION:waka-->
 

@@ -13,10 +13,10 @@
 # My current activity 😊
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/aleph-im/aleph-sdk-ts/pull/46) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-2. 🗣 Commented on [#329](https://github.com/anmol098/waka-readme-stats/issues/329) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❗️ Opened issue [#329](https://github.com/anmol098/waka-readme-stats/issues/329) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 💪 Opened PR [#43](https://github.com/aleph-im/aleph-sdk-ts/pull/43) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-5. ❗️ Opened issue [#42](https://github.com/aleph-im/aleph-sdk-ts/issues/42) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+1. 💪 Opened PR [#47](https://github.com/aleph-im/aleph-sdk-ts/pull/47) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+2. 💪 Opened PR [#46](https://github.com/aleph-im/aleph-sdk-ts/pull/46) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+3. 🗣 Commented on [#329](https://github.com/anmol098/waka-readme-stats/issues/329) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ❗️ Opened issue [#329](https://github.com/anmol098/waka-readme-stats/issues/329) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 💪 Opened PR [#43](https://github.com/aleph-im/aleph-sdk-ts/pull/43) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
 <!--END_SECTION:activity-->
 

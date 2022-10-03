@@ -13,10 +13,10 @@
 # My current activity 😊
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Datadvisor/frontend/pull/18) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-2. 💪 Opened PR [#18](https://github.com/Datadvisor/frontend/pull/18) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-3. 🎉 Merged PR [#2](https://github.com/Datadvisor/scrapper/pull/2) in [Datadvisor/scrapper](https://github.com/Datadvisor/scrapper)
-4. 💪 Opened PR [#2](https://github.com/Datadvisor/scrapper/pull/2) in [Datadvisor/scrapper](https://github.com/Datadvisor/scrapper)
-5. ❌ Closed PR [#1](https://github.com/Datadvisor/scrapper/pull/1) in [Datadvisor/scrapper](https://github.com/Datadvisor/scrapper)
+1. 💪 Opened PR [#79](https://github.com/aleph-im/aleph-sdk-ts/pull/79) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+2. 🎉 Merged PR [#18](https://github.com/Datadvisor/frontend/pull/18) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+3. 💪 Opened PR [#18](https://github.com/Datadvisor/frontend/pull/18) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+4. 🎉 Merged PR [#2](https://github.com/Datadvisor/scrapper/pull/2) in [Datadvisor/scrapper](https://github.com/Datadvisor/scrapper)
+5. 💪 Opened PR [#2](https://github.com/Datadvisor/scrapper/pull/2) in [Datadvisor/scrapper](https://github.com/Datadvisor/scrapper)
 <!--END_SECTION:activity-->
 

@@ -13,10 +13,10 @@
 # My current activity 😊
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/aleph-im/aleph-sdk-ts/pull/80) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-2. ❌ Closed PR [#48](https://github.com/aleph-im/aleph-sdk-ts/pull/48) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-3. 🎉 Merged PR [#25](https://github.com/Datadvisor/frontend/pull/25) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-4. 💪 Opened PR [#25](https://github.com/Datadvisor/frontend/pull/25) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-5. 🎉 Merged PR [#24](https://github.com/Datadvisor/frontend/pull/24) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+1. ❌ Closed PR [#79](https://github.com/aleph-im/aleph-sdk-ts/pull/79) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+2. 💪 Opened PR [#81](https://github.com/aleph-im/aleph-sdk-ts/pull/81) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+3. ❌ Closed PR [#49](https://github.com/aleph-im/aleph-sdk-ts/pull/49) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+4. 💪 Opened PR [#80](https://github.com/aleph-im/aleph-sdk-ts/pull/80) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+5. ❌ Closed PR [#48](https://github.com/aleph-im/aleph-sdk-ts/pull/48) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
 <!--END_SECTION:activity-->
 

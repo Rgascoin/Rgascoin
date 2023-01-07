@@ -13,10 +13,10 @@
 # My current activity 😊
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Datadvisor/frontend/pull/35) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-2. 💪 Opened PR [#35](https://github.com/Datadvisor/frontend/pull/35) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-3. 🎉 Merged PR [#32](https://github.com/Datadvisor/frontend/pull/32) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-4. 💪 Opened PR [#32](https://github.com/Datadvisor/frontend/pull/32) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-5. 🎉 Merged PR [#26](https://github.com/Datadvisor/frontend/pull/26) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+1. 💪 Opened PR [#111](https://github.com/aleph-im/aleph-sdk-ts/pull/111) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+2. 🗣 Commented on [#110](https://github.com/aleph-im/aleph-sdk-ts/issues/110) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+3. 🎉 Merged PR [#35](https://github.com/Datadvisor/frontend/pull/35) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+4. 💪 Opened PR [#35](https://github.com/Datadvisor/frontend/pull/35) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
+5. 🎉 Merged PR [#32](https://github.com/Datadvisor/frontend/pull/32) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
 <!--END_SECTION:activity-->
 

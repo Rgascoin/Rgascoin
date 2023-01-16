@@ -13,10 +13,10 @@
 # My current activity 😊
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#115](https://github.com/aleph-im/aleph-sdk-ts/pull/115) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-2. 💪 Opened PR [#116](https://github.com/aleph-im/aleph-sdk-ts/pull/116) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-3. 💪 Opened PR [#115](https://github.com/aleph-im/aleph-sdk-ts/pull/115) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-4. 🗣 Commented on [#110](https://github.com/aleph-im/aleph-sdk-ts/issues/110) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
-5. ❗️ Opened issue [#113](https://github.com/aleph-im/aleph-sdk-ts/issues/113) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+1. 💪 Opened PR [#117](https://github.com/aleph-im/aleph-sdk-ts/pull/117) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+2. ❌ Closed PR [#115](https://github.com/aleph-im/aleph-sdk-ts/pull/115) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+3. 💪 Opened PR [#116](https://github.com/aleph-im/aleph-sdk-ts/pull/116) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+4. 💪 Opened PR [#115](https://github.com/aleph-im/aleph-sdk-ts/pull/115) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
+5. 🗣 Commented on [#110](https://github.com/aleph-im/aleph-sdk-ts/issues/110) in [aleph-im/aleph-sdk-ts](https://github.com/aleph-im/aleph-sdk-ts)
 <!--END_SECTION:activity-->
 

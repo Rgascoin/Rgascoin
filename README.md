@@ -12,11 +12,5 @@
 
 # My current activity 😊
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/Datadvisor/frontend/pull/43) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-2. 💪 Opened PR [#43](https://github.com/Datadvisor/frontend/pull/43) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-3. 🎉 Merged PR [#42](https://github.com/Datadvisor/frontend/pull/42) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-4. 💪 Opened PR [#42](https://github.com/Datadvisor/frontend/pull/42) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-5. 🎉 Merged PR [#41](https://github.com/Datadvisor/frontend/pull/41) in [Datadvisor/frontend](https://github.com/Datadvisor/frontend)
-<!--END_SECTION:activity-->
+- Working on an Instant gaming like Saas service
 
